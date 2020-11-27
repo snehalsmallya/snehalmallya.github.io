@@ -63,8 +63,8 @@ body
   }
   .intro_box 
   {
-    position: center;
-    width: 100%;
+    margin: auto;
+    width: 80%;
     height: max-content;
     padding-top: 1vh;
     display: flex;

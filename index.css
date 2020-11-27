@@ -73,8 +73,9 @@ body
   #me 
   {
       margin-top: 12vh;
-      margin-left: 2vw;
+      margin-left: 4vw;
       height: 50vh; 
+      padding: 5vh;
   }
   .me
   {
